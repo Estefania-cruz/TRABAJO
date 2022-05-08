@@ -1,3 +1,6 @@
+*************
+BASE DE DATOS 
+************
 create database cru;
 use cru;
 
@@ -14,7 +17,7 @@ INSERT INTO persona(nombre, edad, signo) VALUES
 ('Ruth Tarqui','22','ima','estancia_1'),
 ('Antonio Torres','5','	ima','estancia_1');
 
-*************
+/*CONEXION A LA BD*/
 
 <?php 
 $contrasena = "";
